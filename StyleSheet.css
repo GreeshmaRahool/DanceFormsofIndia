@@ -1,0 +1,49 @@
+﻿.dance_form{
+	
+	
+    font-family: cursive ;
+    background-color: black;
+    color:white;
+   
+    line-height: 35px;
+   font-weight: lighter;
+     
+    width: 2000px;
+    border: 25px solid #102e5e;
+    padding: 25px;
+    margin: 15px;
+}
+#header1{
+	font-size:50px;
+	font-style: italic;
+	font-family:sans-serif;
+	color: #cc0066
+
+   
+
+}
+
+a:link {
+    color: white;
+}
+
+
+a:visited {
+    color: pink;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
+.div_class{
+	
+	
+}
+
+a{
+	font-size: 30px;
+}
